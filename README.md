@@ -1,5 +1,5 @@
 
-# 📘 Presidential Inaugural Speeches: Unification or Polarization?
+#  Presidential Inaugural Speeches: Unification or Polarization?
 
 **A DS 4002 Case Study for Second-Year UVA Students**  
 **Instructor: Prof. Loreto Alonzi**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This case study invites you to explore how presidential rhetoric shapes national discourse. Specifically, you'll investigate whether **Democratic and Republican presidents differ in their use of unifying vs. polarizing language** during inaugural addresses.
 
@@ -23,7 +23,7 @@ Your goal is to **reproduce this analysis** and reflect on what your findings su
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 The project is organized as follows:
 
@@ -47,7 +47,7 @@ ds4002_project1/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. **Clone the Repository**
 ```bash
@@ -104,7 +104,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn scipy requests beautifu
 
 ---
 
-## 📄 Your Final Deliverable
+## Your Final Deliverable
 
 You will submit a **single Jupyter Notebook** that:
 
@@ -118,14 +118,14 @@ Refer to `RUBRIC.pdf` for full grading and submission criteria.
 
 ---
 
-## 📎 Sources
+## Sources
 
 - Speeches collected from: [UCSB American Presidency Project](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/inaugural-addresses)
 - Word lists adapted from prior political discourse research and expanded for educational purposes.
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 
 This case study is designed to help you:
 - Practice web scraping and feature extraction

@@ -123,8 +123,10 @@ Refer to `RUBRIC.pdf` for full grading and submission criteria.
 - Speeches collected from: [UCSB American Presidency Project](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/inaugural-addresses)
 - Word lists adapted from prior political discourse research and expanded for educational purposes.
 
----
+**Helpful Resources**
+https://www.geeksforgeeks.org/text-classification-using-logistic-regression/#
 
+https://www.r-bloggers.com/2024/08/text-analysis-of-2024-us-presidential-convention-speeches/
 ##  Learning Outcomes
 
 This case study is designed to help you:

@@ -75,9 +75,9 @@ pip install pandas numpy seaborn matplotlib scikit-learn scipy requests beautifu
 
 ---
 
-## 📂 Instructions: What to Do
+## Instructions: What to Do
 
-### ✅ Step-by-Step Workflow
+### Step-by-Step Workflow
 
 1. **Start with `scraping_cleaning.ipynb`**
    - Scrapes speeches from the [UCSB American Presidency Project](https://www.presidency.ucsb.edu/).
@@ -135,7 +135,7 @@ This case study is designed to help you:
 
 ---
 
-## ✍️ Project Authors
+## Project Authors
 
 **Data Destroyers**  
 University of Virginia — DS 4002 Spring 2025  

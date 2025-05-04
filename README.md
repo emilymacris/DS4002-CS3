@@ -30,16 +30,16 @@ The project is organized as follows:
 ```
 ds4002_project1/
 │
-├── data/
+├── DATA/
 │   ├── speech_data.csv              # Cleaned dataset for modeling
 │   └── DATA_APPENDIX.pdf            # Overview of dataset construction
 │
-├── scripts/
-│   ├── scraping_cleaning.ipynb      # Web scraping and feature engineering
-│   ├── EDA.ipynb                    # Visualizations and descriptive stats
-│   └── analysis.ipynb               # Logistic regression + model evaluation
+├── SCRIPTS/
+│   ├── scraping_cleaning_EXAMPLE.ipynb      # Web scraping and feature engineering
+│   ├── EDA_EXAMPLE.ipynb                    # Visualizations and descriptive stats
+│   └── analysis_EXAMPLE.ipynb               # Logistic regression + model evaluation
 │
-├── HOOK_DOCUMENT.pdf                # 1-page mission document
+├── HOOK.pdf                         # 1-page mission document
 ├── RUBRIC.pdf                       # Assignment instructions and grading rubric
 ├── README.md                        # You are here
 └── LICENSE.md
@@ -62,13 +62,13 @@ Make sure to review these documents thoroughly before you begin — and revisit 
 Also at the top level is the [`DATA/`](./DATA/) and [`SCRIPTS/`](./SCRIPTS/) folders. These contain the essential materials you’ll need for analysis and understanding.
 
 The `data/` folder includes:
-- [speech_data.csv](./data/speech_data.csv): A cleaned dataset of inaugural speeches, prepared for modeling.
-- [DATA_APPENDIX.pdf](./data/DATA_APPENDIX.pdf): Describes how the dataset was constructed, including scraping methodology and feature creation.
+- [speech_data.csv](./DATA/speech_data.csv): A cleaned dataset of inaugural speeches, prepared for modeling.
+- [DATA_APPENDIX.pdf](./DATA/DATA_APPENDIX.pdf): Describes how the dataset was constructed, including scraping methodology and feature creation.
 
-The `scripts/` folder contains all code for the project:
-- [scraping_cleaning_EXAMPLE.ipynb](./scripts/scraping_cleaning_EXAMPLE.ipynb): Scrapes and processes the speeches.
-- [EDA_EXAMPLE.ipynb](./scripts/EDA_EXAMPLE.ipynb): Performs exploratory data analysis with visualizations.
-- [analysis_EXAMPLE.ipynb](./scripts/analysis_EXAMPLE.ipynb): Runs a logistic regression model and evaluates its performance.
+The `SCRIPTS/` folder contains all code for the project:
+- [scraping_cleaning_EXAMPLE.ipynb](./SCRIPTS/scraping_cleaning_EXAMPLE.ipynb): Scrapes and processes the speeches.
+- [EDA_EXAMPLE.ipynb](./SCRIPTS/EDA_EXAMPLE.ipynb): Performs exploratory data analysis with visualizations.
+- [analysis_EXAMPLE.ipynb](./SCRIPTS/analysis_EXAMPLE.ipynb): Runs a logistic regression model and evaluates its performance.
 
 
 

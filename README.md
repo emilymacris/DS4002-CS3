@@ -33,6 +33,11 @@ ds4002_project1/
 ├── DATA/
 │   ├── speech_data.csv              # Cleaned dataset for modeling
 │   └── DATA_APPENDIX.pdf            # Overview of dataset construction
+│   └── Polarization_Article.pdf     # Article examining political polarization in the United States. 
+│   └── Text_Analysis_Article.pdf    # A blog-style post offering a data-driven perspective on the 2024 U.S. election speeches.
+│   └── Text_Classification_LR.pdf   #  A technical guide to text classification using Logistic Regression.
+
+│
 │
 ├── SCRIPTS/
 │   ├── scraping_cleaning_EXAMPLE.ipynb      # Web scraping and feature engineering
@@ -72,13 +77,13 @@ The `SCRIPTS/` folder contains all code for the project:
 
 This repository contains three key text that explore the intersection of political discourse, data analysis, and natural language processing:
 
-1. **[Polarization_Article.pdf](./DATA/Polarization_Article.pdf)**  
+1. [Polarization_Article.pdf](./DATA/Polarization_Article.pdf)  
    A brief but insightful article examining political polarization in the United States. It sets the stage for understanding how discourse has evolved in recent election cycles.
 
-2. **[Text_Analysis_Article.pdf](./DATA/Text_Analysis_Article.pdf)**  
+2. [Text_Analysis_Article.pdf](./DATA/Text_Analysis_Article.pdf) 
    A blog-style post offering a data-driven perspective on the 2024 U.S. presidential convention speeches. It poses a compelling question: *Can an actuary, mathematician, or data analyst say anything objective about today's political landscape?* This piece explores the real-world implications of applying text analysis to political rhetoric.
 
-3. **[Text_Classification_LR.pdf](./DATA/Text_Classification_LR.pdf)**  
+3. [Text_Classification_LR.pdf](./DATA/Text_Classification_LR.pdf)
    A technical guide to text classification using Logistic Regression. This document outlines foundational steps—from text vectorization to model implementation—and serves as a practical reference for anyone applying machine learning techniques to classify political or other thematic content.
 
 

@@ -44,6 +44,35 @@ ds4002_project1/
 ├── README.md                        # You are here
 └── LICENSE.md
 ```
+## 📂 Orientation
+
+### 📄 Hook and Rubric Documents
+
+Hook and Rubric Documents are both located at the top level of this repository.
+
+- [HOOK_DOCUMENT.pdf](./HOOK_DOCUMENT.pdf) will orient you to this Case Study and provide a high-level introduction to the challenge ahead. Start here to understand the scenario and the role you'll take on.
+- [RUBRIC.pdf](./RUBRIC.pdf) gives you detailed instructions on deliverables and evaluation criteria. Use this as a reference throughout the project.
+
+Make sure to review these documents thoroughly before you begin — and revisit them as you complete each stage of the assignment.
+
+---
+
+### 📚 Various Materials
+
+Also at the top level is the [`data/`](./data/) and [`scripts/`](./scripts/) folders. These contain the essential materials you’ll need for analysis and understanding.
+
+The `data/` folder includes:
+- [speech_data.csv](./data/speech_data.csv): A cleaned dataset of inaugural speeches, prepared for modeling.
+- [DATA_APPENDIX.pdf](./data/DATA_APPENDIX.pdf): Describes how the dataset was constructed, including scraping methodology and feature creation.
+
+The `scripts/` folder contains all code for the project:
+- [scraping_cleaning.ipynb](./scripts/scraping_cleaning.ipynb): Scrapes and processes the speeches.
+- [EDA.ipynb](./scripts/EDA.ipynb): Performs exploratory data analysis with visualizations.
+- [analysis.ipynb](./scripts/analysis.ipynb): Runs a logistic regression model and evaluates its performance.
+
+
+
+
 
 ---
 
